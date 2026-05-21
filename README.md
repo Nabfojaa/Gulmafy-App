@@ -91,16 +91,16 @@ Database GULMAFY mencakup 11+ spesies gulma utama Indonesia:
 
 | No | Nama Gulma | Nama Ilmiah | Tingkat Bahaya |
 |----|-----------|------------|----------------|
-| 1 | Teki | *Cyperus rotundus L.* | 5/5 ⭐⭐⭐⭐⭐ |
+| 1 | Teki | *Cyperus rotundus* L. | 5/5 ⭐⭐⭐⭐⭐ |
 | 2 | Alang-alang | *Imperata cylindrica* | 5/5 ⭐⭐⭐⭐⭐ |
-| 3 | Meniran | *Phyllanthus niruri L.* | 3/5 ⭐⭐⭐ |
-| 4 | Putri Malu | *Mimosa pudica L.* | 3/5 ⭐⭐⭐ |
-| 5 | Krokot | *Portulaca oleracea L.* | 2/5 ⭐⭐ |
-| 6 | Bayam Duri | *Amaranthus spinosus L.* | 3/5 ⭐⭐⭐ |
+| 3 | Meniran | *Phyllanthus niruri* L. | 3/5 ⭐⭐⭐ |
+| 4 | Putri Malu | *Mimosa pudica* L. | 3/5 ⭐⭐⭐ |
+| 5 | Krokot | *Portulaca oleracea* L. | 2/5 ⭐⭐ |
+| 6 | Bayam Duri | *Amaranthus spinosus* L. | 3/5 ⭐⭐⭐ |
 | 7 | Bandotan | *Ageratum conyzoides* | 3/5 ⭐⭐⭐ |
 | 8 | Rumput Belulang | *Paspalum conjugatum* | 4/5 ⭐⭐⭐⭐ |
 | 9 | Rumput Grinting | *Digitaria adscendens* | 3/5 ⭐⭐⭐ |
-| 10 | Ketul | *Cyperus iria L.* | 4/5 ⭐⭐⭐⭐ |
+| 10 | Ketul | *Cyperus iria* L. | 4/5 ⭐⭐⭐⭐ |
 | 11 | Eceng Gondok | *Eichhornia crassipes* | 5/5 ⭐⭐⭐⭐⭐ |
 
 ## 🔧 Teknologi
