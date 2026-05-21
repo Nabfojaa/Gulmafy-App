@@ -964,3 +964,26 @@ def create_confidence_bar(confidence):
     </div>
     """, unsafe_allow_html=True)
 
+def format_scientific_name(name):
+    """
+    Format nama ilmiah menjadi italic HTML.
+    Contoh:
+    Cyperus rotundus L.
+    -> <i>Cyperus rotundus</i> L.
+    """
+
+    if not name:
+        return ""
+
+    parts = name.split()
+
+    if len(parts) >= 2:
+        italic_part = " ".join(parts[:2])
+        remaining = " ".join(parts[2:])
+
+        if remaining:
+            return f"<i>{italic_part}</i> {remaining}"
+        else:
+            return f"<i>{italic_part}</i>"
+
+    return name
