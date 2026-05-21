@@ -234,15 +234,13 @@ Referensi utama yang digunakan:
 6. JAMP Pertanian
 
 ## 🏫 Institusi Pengembang
-- Institut Pertanian Bogor (IPB)
-- BRIN (Badan Riset dan Inovasi Nasional)
-- Universitas Pertanian Indonesia
+- Universitas Sultan Ageng Tirtayasa
 
 ## 👏 Terima Kasih
 
-Dikembangkan dengan ❤️ oleh:
+Dikembangkan dengan ❤️ oleh: Nabilah Fortuna Jannah
 - Kelompok 1
-- Kelas 6 C
+- Kelas 6 C (Pertanian Presisi)
 - Pertanian Presisi Untirta - Agroekoteknologi
 
 ## ⚙️ Konfigurasi
@@ -331,16 +329,13 @@ Silakan buat Pull Request atau Issue di GitHub
 
 ## 📞 Kontak & Support
 
-- **Email**: gulmafy@pertanian.id
-- **Support**: support@gulmafy.id
-- **Feedback**: feedback@gulmafy.id
-- **GitHub**: github.com/gulmafy/gulmafy
+- **Email**: nabilahfojha7@gmail.com
 
 ## 👏 Terima Kasih
 
-Dikembangkan dengan ❤️ oleh:
+Dikembangkan dengan ❤️ oleh: Nabilah Fortuna Jannah
 - Kelompok 1
-- Kelas 6 C
+- Kelas 6 C (Pertanian Presisi)
 - Pertanian Presisi Untirta - Agroekoteknologi
 
 ## 🎯 Roadmap
